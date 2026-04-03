@@ -1,27 +1,71 @@
-# Hi there, I'm Aylin 👋
+# aylin vahabova
 
-I'm a final-year Computer Science (Data Science) student at Monash University passionate about data-driven solutions, AI/LLMs, and accessible digital experiences. I'm experienced with Python, TypeScript, and building full-stack and machine learning projects.
+```python
+person = {
+    "name":      "Aylin",
+    "based_in":  "Melbourne, Australia 🇦🇺",
+    "studying":  "CS (Data Science) @ Monash University",
+    "building":  ["LLM apps", "data viz", "full-stack tools"],
+    "fuelled_by": "oat flat whites ☕",
+    "open_to":   ["grad roles", "internships", "collabs"],
+}
+```
 
-## What I'm working on
+---
 
-- **AI Helpdesk Assistant** – classifies IT support tickets, predicts urgency, and generates responses using large language models.
-- **RAG Chatbot** – retrieval-augmented chatbot for knowledge bases.
-- **CinemaCompass** – web app recommending movies built with TypeScript and React.
-- **VerifyNews** – fake-news verification tool using NLP techniques.
-- **Deep Learning Notebooks** – collection of Jupyter notebooks covering various deep-learning models and techniques.
+## what i'm building
 
-## About Me
+| project | what it does | stack |
+|--------|-------------|-------|
+| 🤖 [rag-chatbot](https://github.com/diaboliquepapillon/rag-chatbot) | chat with your own documents — PDFs, knowledge bases, datasets | Python · LangChain · FAISS |
+| 📰 [verifyNews](https://github.com/diaboliquepapillon/verifyNews) | flags misinformation using NLP before you share it | TypeScript · OpenAI |
+| 🎬 [cinemaCompass](https://github.com/diaboliquepapillon/cinemaCompass) | find your next favourite film | TypeScript · React |
+| 🌿 [threatened species viz](https://github.com/diaboliquepapillon/FIT3179-DataVisualisation2-ThreatenedSpecies) | interactive look at Australia's endangered wildlife | D3.js · Vega-Lite |
+| 🧠 [deeplearning](https://github.com/diaboliquepapillon/deeplearning) | CNNs, RNNs, transformers — learning by doing | Python · PyTorch |
 
-- I'm currently learning advanced deep-learning techniques and cloud deployments.
-- I'm looking to collaborate on open-source AI/ML projects and data-visualisation tools.
-- Ask me about machine learning, natural language processing, data analytics, and full-stack development.
-- Reach me via [LinkedIn](https://www.linkedin.com/in/aylinvahabova/) or through GitHub.
-- Fun fact: I'm an international student who loves exploring Melbourne's cafe culture.
+---
 
-## Skills
+## how i think about problems
 
-Python · TypeScript · TensorFlow · PyTorch · scikit‑learn · FastAPI · D3.js · Power BI · SQL · Git · Azure
+```
+data  →  insight  →  something people can actually use
+```
 
-## Goals
+I care about the whole journey — not just the model accuracy,
+but whether the end result is understandable, accessible, and
+useful to someone who isn't a data scientist.
 
-I'm seeking graduate roles and internships in data science, AI/ML, and full-stack development.
+---
+
+## tools i reach for
+
+**languages**
+`Python` `TypeScript` `SQL` `C++`
+
+**AI / data**
+`PyTorch` `TensorFlow` `scikit-learn` `LangChain` `Pandas` `D3.js`
+
+**web & cloud**
+`React` `Next.js` `FastAPI` `Azure` `Vercel`
+
+---
+
+## a few things about me
+
+- 🦋 international student who made Melbourne home
+- ☕ firm believer that good ideas happen over coffee
+- 🌏 passionate about tech that works for everyone, not just some people
+- 📚 currently going deep on LLMs and cloud deployments
+
+---
+
+## let's connect
+
+[![linkedin](https://img.shields.io/badge/linkedin-aylinvahabova-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aylinvahabova)
+[![website](https://img.shields.io/badge/portfolio-aylinvahabova.netlify.app-black?style=flat-square)](https://aylinvahabova.netlify.app)
+
+*open to grad roles and internships in data science, AI engineering, and full-stack dev — reach out anytime*
+
+---
+
+<sub>🦋 diaboliquepapillon — the diabolical butterfly, building things one commit at a time</sub>
